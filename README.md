@@ -12,7 +12,7 @@
 - 🏆 Active in hackathons & coding competitions  
 
 ### 📫 How to Reach Me  
-- 📧 Email: [Your Email]  
+- 📧 Email: jabhinav198@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/abhinav--jindal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🏗 GitHub: You're already here! 😃  
 
