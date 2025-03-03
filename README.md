@@ -13,7 +13,7 @@
 
 ### 📫 How to Reach Me  
 - 📧 Email: [Your Email]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinav--jindal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🏗 GitHub: You're already here! 😃  
 
 ### ⚡ Fun Fact  
