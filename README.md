@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Abhinav Jindal  
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-### 🚀 About Me  
+🚀 About Me  
 - 🎓 B.Tech CSE | 2nd Year @ Lovely Professional University  
 - 👀 Passionate about Software Development, Data Structures & Algorithms, and Cloud Computing  
 - 🌱 Currently learning Java and exploring Data Science as a minor  
