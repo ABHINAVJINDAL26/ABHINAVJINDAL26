@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+DevOps+Engineer;AI+%2F+ML+%7C+GenAI+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+LPU+CSE+%2725;Cloud+%26+DevOps+Engineer;GenAI+%2F+LLM+Builder;2nd+Place+%E2%80%94+IIT+Ropar+Hackathon+%F0%9F%8F%86;350%2B+LeetCode+%7C+5%E2%98%85+HackerRank" alt="Typing SVG" />
   </a>
 </p>
 
@@ -118,6 +118,61 @@ I specialize in **Full-Stack Development, DSA in Java/C++, Cloud Computing, AI/M
 
 ---
 
+## 🌱 Currently Exploring
+
+```text
+🔬  Agentic AI Systems      ████████████░░   80%
+⚡  System Design           ███████████░░░   75%
+📦  Microservices & gRPC    ████████░░░░░░   55%
+🌐  Web3 & Smart Contracts  ████░░░░░░░░░░   30%
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHINAVJINDAL26&theme=onestar&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
+## 📊 Live GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHINAVJINDAL26&theme=github_dark" width="96%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHINAVJINDAL26&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHINAVJINDAL26&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHINAVJINDAL26&theme=github_dark" width="32%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHINAVJINDAL26&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVJINDAL26&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAVJINDAL26&theme=github-dark-blue&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 📈 Live Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAVJINDAL26&theme=github-compact&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="96%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABHINAVJINDAL26/ABHINAVJINDAL26/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🤝 Let's Connect & Collaborate
 I'm always excited to collaborate on:
 
@@ -129,29 +184,8 @@ I'm always excited to collaborate on:
 
 📬 Reach out to me:
 - ✉️ Email: **jabhinav198@gmail.com**
-- 💼 LinkedIn: **Abhinav Jindal**
+- 💼 LinkedIn: **[Abhinav Jindal](https://www.linkedin.com/in/abhinav-jindal)**
 - 🧑‍💻 GitHub: You're already here 😉
-
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHINAVJINDAL26&theme=github_dark" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHINAVJINDAL26&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVJINDAL26&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAVJINDAL26&theme=github-dark-blue&hide_border=true" width="60%" />
-</p>
-
----
-
-
 
 ---
 
