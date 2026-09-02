@@ -14,17 +14,22 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year B.Tech CSE student at Lovely Professional University**, passionate about **engineering scalable systems** and **solving real-world problems** through technology.
+I’m a **Final-Year B.Tech CSE student at Lovely Professional University**, passionate about **building scalable software, solving challenging engineering problems, and turning ideas into reliable, real-world applications**.
 
-I specialize in **Full-Stack Development, DSA in Java/C++, Cloud Computing, AI/ML, and GenAI-driven applications**. I enjoy **designing architectures**, **building production-ready systems**, and **optimizing algorithms** for high performance.
+My technical interests span **Software Engineering, Full-Stack Development, Data Structures & Algorithms, Cloud Computing, AI/ML, Data Science, and Generative AI**. I enjoy designing efficient architectures, developing end-to-end applications, working with data, and optimizing solutions for performance, scalability, and reliability.
 
-- 🔭 **Developing** end-to-end full-stack and AI/ML-powered applications
-- 📊 **Pursuing** Data Science as a minor with hands-on analytics projects
-- 💻 **Built** major projects like **Amazon Clone**, **Spotify Clone**, and a secure **Smart Voting System** using Node.js, Firebase, MongoDB, and MySQL
-- 🧠 **Practicing** DSA consistently for placement excellence (Java & C++)
-- ☁️ **Certified:** Oracle Java Foundations & OCI AI Foundations Associate
-- 🏆 **Secured 2nd place** at IIT Ropar Hackathon for an AI-based innovation
-- ⭐ **Solved 350+ LeetCode problems**, earned **5⭐ on HackerRank**, and actively contribute to multiple tech communities
+* 🚀 **Engineering** full-stack, cloud-based, and AI-powered applications focused on real-world use cases
+* 💻 **Strong foundation in** Java, C++, JavaScript, React, Node.js, MongoDB, MySQL, Firebase, and cloud technologies
+* 🧠 **Solved 400+ LeetCode problems** and earned **5⭐ on HackerRank**, with a strong focus on DSA and problem-solving
+* 🤖 **Developing** AI/ML and Generative AI applications, including LLM-powered solutions and intelligent automation
+* 📊 **Data Science minor** with hands-on experience in data analysis, visualization, and analytics
+* 🛠️ **Developed** projects including an Amazon Clone, Spotify Clone, and a secure Smart Voting System using Node.js, Firebase, MongoDB, and MySQL
+* 🏆 **Secured 2nd place** at an IIT Ropar Hackathon for an AI-based innovation
+* ☁️ **Certified** in Oracle Java Foundations and Oracle Cloud Infrastructure AI Foundations
+* 🌐 **Active in** technical communities, hackathons, and collaborative development
+
+I’m actively looking for **Software Engineering, Full-Stack Development, Cloud, Data, and AI/ML opportunities** where I can contribute to impactful products, solve meaningful engineering problems, and grow as a well-rounded software engineer.
+
 
 ---
 
