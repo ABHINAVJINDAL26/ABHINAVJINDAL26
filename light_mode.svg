@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="720" viewBox="0 0 985 720" font-family="ConsolasFallback,Consolas,'SFMono-Regular','Liberation Mono',Menlo,monospace" font-size="16px">
+<style>
+  text { white-space: pre; fill: #24292f; }
+  .key { fill: #953800; } .value { fill: #0a3069; } .cc { fill: #8c959f; }
+  .title { fill: #8250df; font-weight: bold; } .art { fill: #6639ba; } .text { fill: #24292f; }
+  .cursor { fill: #0a3069; animation: blink 1s step-end infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="984" height="719" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<path d="M0.5 12.5 a12 12 0 0 1 12 -12 h960 a12 12 0 0 1 12 12 v22 h-984 z" fill="#eaeef2"/>
+<line x1="0.5" y1="34.5" x2="984.5" y2="34.5" stroke="#d0d7de"/>
+<circle cx="22" cy="17.5" r="6" fill="#ff5f57"/><circle cx="42" cy="17.5" r="6" fill="#febc2e"/><circle cx="62" cy="17.5" r="6" fill="#28c840"/>
+<text x="492.5" y="22" text-anchor="middle" font-size="13px" class="cc">abhinav@jindal: ~ — neofetch</text>
+<text x="60" y="218" font-size="18px"><tspan class="art">  █████╗      ██╗</tspan></text>
+<text x="60" y="236" font-size="18px"><tspan class="art"> ██╔══██╗     ██║</tspan></text>
+<text x="60" y="254" font-size="18px"><tspan class="art"> ███████║     ██║</tspan></text>
+<text x="60" y="272" font-size="18px"><tspan class="art"> ██╔══██║██   ██║</tspan></text>
+<text x="60" y="290" font-size="18px"><tspan class="art"> ██║  ██║╚█████╔╝</tspan></text>
+<text x="60" y="308" font-size="18px"><tspan class="art"> ╚═╝  ╚═╝ ╚════╝ </tspan></text>
+<text x="60" y="326"><tspan class="cc"></tspan></text>
+<text x="60" y="346"><tspan class="cc">┌─────────────────────────┐</tspan></text>
+<text x="60" y="366"><tspan class="cc">│ </tspan><tspan class="key">$ </tspan><tspan class="value">whoami</tspan><tspan class="cc">                │</tspan></text>
+<text x="60" y="386"><tspan class="cc">│ </tspan><tspan class="text">&gt; abhinav jindal</tspan><tspan class="cc">        │</tspan></text>
+<text x="60" y="406"><tspan class="cc">│ </tspan><tspan class="key">$ </tspan><tspan class="value">cat focus.txt</tspan><tspan class="cc">         │</tspan></text>
+<text x="60" y="426"><tspan class="cc">│ </tspan><tspan class="text">&gt; full-stack + genai</tspan><tspan class="cc">    │</tspan></text>
+<text x="60" y="446"><tspan class="cc">│ </tspan><tspan class="key">$ </tspan><tspan class="value">./build --future</tspan><tspan class="cc">      │</tspan></text>
+<text x="60" y="466"><tspan class="cc">│ </tspan><tspan class="text">&gt; shipping</tspan><tspan class="cursor">▌</tspan><tspan class="cc">             │</tspan></text>
+<text x="60" y="486"><tspan class="cc">└─────────────────────────┘</tspan></text>
+<text x="60" y="506"><tspan class="cc"></tspan></text>
+<text x="60" y="526"><tspan class="cc">   ~ code with purpose ~</tspan></text>
+<text x="375" y="62"><tspan class="title">abhinav@jindal</tspan><tspan class="cc"> —————————————————————————————————————————————</tspan></text>
+<text x="375" y="82"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">Windows 11, Ubuntu, Android</tspan></text>
+<text x="375" y="102"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Lovely Professional University</tspan></text>
+<text x="375" y="122"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">:</tspan><tspan class="cc"> ........... </tspan><tspan class="value">B.Tech CSE (Final Year) + Data Science</tspan></text>
+<text x="375" y="142"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Full-Stack · Cloud · GenAI</tspan></text>
+<text x="375" y="162"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">VS Code, IntelliJ IDEA, Jupyter</tspan></text>
+<text x="375" y="182"><tspan class="cc"></tspan></text>
+<text x="375" y="202"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Java, C++, TypeScript, Python</tspan></text>
+<text x="375" y="222"><tspan class="cc">. </tspan><tspan class="key">Languages.Web</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">React, Next.js, Node.js, Tailwind</tspan></text>
+<text x="375" y="242"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc">:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">English, Hindi</tspan></text>
+<text x="375" y="262"><tspan class="cc"></tspan></text>
+<text x="375" y="282"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">LLM apps, RAG, Agentic AI</tspan></text>
+<text x="375" y="302"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Learning</tspan><tspan class="cc">:</tspan><tspan class="cc"> ........... </tspan><tspan class="value">System Design, Microservices</tspan></text>
+<text x="375" y="322"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">3 years, 1 month, 2 days</tspan></text>
+<text x="375" y="342"><tspan class="cc"></tspan></text>
+<text x="375" y="362"><tspan class="cc">- </tspan><tspan class="title">Achievements</tspan><tspan class="cc"> —————————————————————————————————————————————</tspan></text>
+<text x="375" y="382"><tspan class="cc">. </tspan><tspan class="key">Hackathon</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">2nd Place — IIT Ropar</tspan></text>
+<text x="375" y="402"><tspan class="cc">. </tspan><tspan class="key">LeetCode</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">400+ solved</tspan></text>
+<text x="375" y="422"><tspan class="cc">. </tspan><tspan class="key">HackerRank</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">5 Star · Problem Solving</tspan></text>
+<text x="375" y="442"><tspan class="cc">. </tspan><tspan class="key">Oracle</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">Java Fnd · OCI AI Fnd</tspan></text>
+<text x="375" y="462"><tspan class="cc"></tspan></text>
+<text x="375" y="482"><tspan class="cc">- </tspan><tspan class="title">Contact</tspan><tspan class="cc"> ——————————————————————————————————————————————————</tspan></text>
+<text x="375" y="502"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">jabhinav198@gmail.com</tspan></text>
+<text x="375" y="522"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................................. </tspan><tspan class="value">abhinav-jindal</tspan></text>
+<text x="375" y="542"><tspan class="cc">. </tspan><tspan class="key">LeetCode</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">abhinavjindal</tspan></text>
+<text x="375" y="562"><tspan class="cc"></tspan></text>
+<text x="375" y="582"><tspan class="cc">- </tspan><tspan class="title">GitHub Stats</tspan><tspan class="cc"> —————————————————————————————————————————————</tspan></text>
+<text x="375" y="602"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">90</tspan><tspan class="cc"> | </tspan><tspan class="key">Contributed</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">2</tspan></text>
+<text x="375" y="622"><tspan class="cc">. </tspan><tspan class="key">Stars</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">69</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">2</tspan></text>
+<text x="375" y="642"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">2,291</tspan><tspan class="cc"> | </tspan><tspan class="key">Pull Requests</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">16</tspan></text>
+<text x="375" y="662"><tspan class="cc">. </tspan><tspan class="key">Issues</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Contrib (1y)</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">754</tspan></text>
+<text x="375" y="682"><tspan class="cc">. </tspan><tspan class="cc">last sync: 2026-11-22 (auto-updated daily)</tspan></text>
+</svg>
